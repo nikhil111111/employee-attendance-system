@@ -158,20 +158,20 @@ Analytics data
 
 📸 Screenshots
 
-![Frontend Dashboard](public/frontend%20screenshot%201.png)
+![Frontend Dashboard](./frontend/public/frontend%20screenshot%201.png)
 
-![Get Attendance by Status (Postman)](public/get%20attendance%20by%20status.jpg)
+![Get Attendance by Status (Postman)](./frontend/public/get%20attendance%20by%20status.jpg)
 
-![Punch Out API (Postman)](public/punchout%20screenshot.jpg)
+![Punch Out API (Postman)](./frontend/public/punchout%20screenshot.jpg)
 
-![Punch In API (Postman)](public/punchin%20postman%20scrrenshot.jpg)
+![Punch In API (Postman)](./frontend/public/punchin%20postman%20scrrenshot.jpg)
 
-![Get Attendance by Status Filter](public/get%20attendance%20by%20status.jpg)
+![Get Attendance by Status Filter](./frontend/public/get%20attendance%20by%20status.jpg)
 
-![Frontend Attendance Page](public/frontend%20screenshot%201.png)
+![Frontend Attendance Page](./frontend/public/frontend%20screenshot%201.png)
 
-![Filter Attendance Based on Date](public/filter%20attendance%20based%20on%20date.jpg)
+![Filter Attendance Based on Date](./frontend/public/filter%20attendance%20based%20on%20date.jpg)
 
-![Analytics API Response (Postman)](public/analytics%20postman%20scrrenshot.jpg)
+![Analytics API Response (Postman)](./frontend/public/analytics%20postman%20scrrenshot.jpg)
 
-![Already Punched In Error (Postman)](public/already%20punch%20in%20postman%20screenshort.jpg)
+![Already Punched In Error (Postman)](./frontend/public/already%20punch%20in%20postman%20screenshort.jpg)
