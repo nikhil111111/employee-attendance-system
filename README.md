@@ -168,7 +168,7 @@ Analytics data
 
 ![Get Attendance by Status Filter](./frontend/public/get%20attendance%20by%20status.jpg)
 
-![Frontend Attendance Page](./frontend/public/frontend%20screenshot%201.png)
+![Frontend Attendance Page](<./frontend/public/frontend screenshot 2 add employee.png>)
 
 ![Filter Attendance Based on Date](./frontend/public/filter%20attendance%20based%20on%20date.jpg)
 
